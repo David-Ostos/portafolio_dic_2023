@@ -5,6 +5,7 @@ import HeroComp from '../components/front/Home/HeroHome.vue'
 import ProyectHome from '../components/front/Home/ProyectHome.vue'
 import SkillComponent from '../components/front/Home/SkillComponent.vue'
 import SkillComponent2 from '../components/front/Home/SkillComponent2.vue'
+import FormacionHome from '@/components/front/Home/FormacionHome.vue'
 
 </script>
 
@@ -14,6 +15,7 @@ import SkillComponent2 from '../components/front/Home/SkillComponent2.vue'
   <HeroComp/>
   <!-- <SkillComponent/> -->
   <SkillComponent2/>
+  <FormacionHome/>
   <ProyectHome/>
 
   <FooterComp/>
